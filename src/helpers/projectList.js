@@ -1,6 +1,7 @@
 import Negotiate from "../assets/Negotiate.png";
 import Pizza from "../assets/Pizza-Restaurant.png";
 import Task from "../assets/Task-manager.png";
+import Contacts from "../assets/Contacts-manager.png";
 
 
 
@@ -22,5 +23,11 @@ export const ProjectList = [
     image: Task,
     skills: "ReactJS,HTML,CSS,Javascript,Django,Django Rest Framework",
     link: "https://github.com/Raghavendra2306/task-manager-full-stack"
+  },
+  {
+    name: "Contacts Manager",
+    image: Contacts,
+    skills: "ReactJS,HTML,CSS,Javascript,Django,Django Rest Framework",
+    link: "https://github.com/Raghavendra2306/Contacts-Manager"
   },
 ];
